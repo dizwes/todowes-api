@@ -1,8 +1,8 @@
 {
-  "author": "Glaucia Lemos",
+  "author": "Wesley Oliveira",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "Tutorial - Construindo uma Aplicação RESTful API - Node.Js & Express com MongoDb",
+  "description": "Node.Js & Express com MongoDb",
   "name": "node-api",
   "main": "server.js",
   "scripts": {
