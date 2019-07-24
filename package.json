@@ -6,6 +6,7 @@
   "name": "node-api",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "dependencies": {
